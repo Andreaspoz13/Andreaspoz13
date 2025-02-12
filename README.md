@@ -1,8 +1,6 @@
 Computer Science student
-Works with C# and Swift
-Lives in Cyprus
-Has passion for the console modding community
-
+Works with C#, C++ and Swift
+📍Limassol, Cyprus
 Contact me here: andreaspozotosbb@hotmail.com *
 
 *yes i use hotmail
